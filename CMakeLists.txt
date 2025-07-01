@@ -173,6 +173,7 @@ catkin_install_python(PROGRAMS
   scripts/rviz_marker.py
   scripts/ellipsoidal_motion.py
   scripts/fk_antropomorphic_arm.py
+  scripts/ik_antropomorphic_arm.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
